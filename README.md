@@ -1,4 +1,4 @@
-# StudentStatsPlus
+# Student Stats Plus
 
 ### Status: In Progress
 
@@ -12,7 +12,7 @@
 5. [Questions](#questions)
    
 ## Description
-A dynamic back-end application for managing student data. Use MongoDB and Mongoose to calculate total student count and individual grades with aggregate functions. Built with Express.js for smooth CRUD operations.
+**Student Stats Plus** is a dynamic back-end application for managing student data. Use MongoDB and Mongoose to calculate total student count and individual grades with aggregate functions. Built with Express.js for smooth CRUD operations.
 
 ## License
 This project is licensed under the MIT License, which allows you to freely use, modify, and distribute this software, provided proper attribution is given.
